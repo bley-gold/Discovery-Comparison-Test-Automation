@@ -27,3 +27,6 @@ Scrolling and Clicking: Uses JavaScript to scroll the page and interacts with pl
 Data Validation: Extracts text from specific elements and compares it with data from the Excel file. Writes the comparison results back to the Excel file.
 
 ![Screenshot 2]()https://github.com/bley-gold/Discovery-Comparison-Test-Automation/blob/master/Screenshot%202024-06-03%20204353.png
+
+### Testing
+This script performs functional testing by comparing the displayed details of different medical aid plans against expected values stored in an Excel file. Each test scenario's result is recorded in the same Excel file, providing a clear overview of pass/fail statuses.
